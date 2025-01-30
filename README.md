@@ -1,1 +1,1 @@
-# cours_senseurs
+# cours_pinns
